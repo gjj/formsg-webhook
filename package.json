@@ -1,0 +1,23 @@
+{
+  "name": "form.gov.sg-integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gjj/form.gov.sg-integration.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gjj/form.gov.sg-integration/issues"
+  },
+  "homepage": "https://github.com/gjj/form.gov.sg-integration#readme",
+  "dependencies": {
+    "@opengovsg/formsg-sdk": "^0.8.2",
+    "express": "^4.17.1"
+  }
+}
