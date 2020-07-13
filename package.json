@@ -18,6 +18,7 @@
   "homepage": "https://github.com/gjj/form.gov.sg-integration#readme",
   "dependencies": {
     "@opengovsg/formsg-sdk": "^0.8.2",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "request": "^2.88.2"
   }
 }
