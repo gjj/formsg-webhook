@@ -1,6 +1,5 @@
 const express = require('express')
 const formsg = require('@opengovsg/formsg-sdk')()
-const request = require('request')
 var { google } = require('googleapis')
 
 const app = express()
