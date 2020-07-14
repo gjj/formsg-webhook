@@ -1,5 +1,5 @@
 # formsg-webhook
-This provides an example of how you can send form.gov.sg data to Google Sheets through a webhook.
+This provides an example of how you can send [FormSG](https://form.gov.sg/) data to Google Sheets through a webhook.
 
 ## Usage
 
